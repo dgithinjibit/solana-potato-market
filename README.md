@@ -19,7 +19,7 @@ A decentralized application (DApp) built on Solana to connect potato farmers dir
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/YOUR_USERNAME/solana-potato-market.git
+   git clone https://github.com/dgithinjibit/solana-potato-market.git
    cd solana-potato-market
    ```
 
