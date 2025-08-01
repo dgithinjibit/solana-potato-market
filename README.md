@@ -1,6 +1,7 @@
 # Solana Potato Market
 
 A decentralized application (DApp) built on Solana to connect potato farmers directly with buyers, eliminating the need for middlemen.
+For teh data, I used ML algs to use synthesis daa for teting and it works better for data security and hope you do the same
 
 ## Features
 
